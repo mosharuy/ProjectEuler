@@ -24,5 +24,4 @@ function largestPrimeFactor(number) {
       }
       return primeFactors[primeFactors.length-1];
   }
-
   //tested at https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-3-largest-prime-factor
